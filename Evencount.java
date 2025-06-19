@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class Evencount
 {
 	public static void main(String[] args) {
 	    int []a =new int[5];
